@@ -9,6 +9,16 @@ body {
   font-family: "Outfit", sans-serif; /* Import the Outfit font */
 }
 
+.card {
+  background-color: hsl(0, 0%, 100%); /* White */
+  border-radius: 15px;
+  padding: 20px;
+  width: 100%;
+  max-width: 320px; /* Responsive width */
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
