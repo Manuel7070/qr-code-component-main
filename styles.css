@@ -1,6 +1,14 @@
-div {
-  text-align: center;
+/* Center the card and set up full height */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: hsl(212, 45%, 89%); /* Slate 300 */
+  font-family: "Outfit", sans-serif; /* Import the Outfit font */
 }
+
 .attribution {
   font-size: 11px;
   text-align: center;
