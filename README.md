@@ -81,7 +81,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Manuel](https://www.your-site.com)
 - Frontend Mentor - [@Manuel7070](https://www.frontendmentor.io/profile/Manuel7070)
-- Twitter - [@Manuel](https://x.com/Clergi_M)
+- Twitter - [@Clergi_M](https://x.com/Clergi_M)
 
 ## Acknowledgments
 
