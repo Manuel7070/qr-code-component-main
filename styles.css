@@ -24,6 +24,14 @@ body {
   border-radius: 10px;
 }
 
+/* Styling the text content */
+h1 {
+  font-size: 18px;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%); /* Slate 900 */
+  margin: 20px 0 10px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
